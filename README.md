@@ -36,4 +36,6 @@ It updates all you trainings with this particular CHAT BOT APP
 
 Following is the sample Image and chat done with the CHAT BOT  ( You can call him DUDE )
 
-<img src="./assets/sample-chat.png" alt="sample chat">
+<img src="./src/assets/sample-chat.png" alt="sample chat">
+
+Access this app online at https://chatdude.pavanaditya.com

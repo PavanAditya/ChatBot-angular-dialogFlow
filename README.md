@@ -25,3 +25,15 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+## ACCESS TOKEN
+
+Update the access token with the client access token associated with your dialog flow agent
+It updates all you trainings with this particular CHAT BOT APP
+
+## SAMPLE IMAGE 
+
+Following is the sample Image and chat done with the CHAT BOT  ( You can call him DUDE )
+
+<img src="./assets/sample-chat.png" alt="sample chat">
